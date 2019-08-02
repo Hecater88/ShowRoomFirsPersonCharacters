@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: b6f689488c318e2469e249fa7544fda5
+timeCreated: 1528390619
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: brazo1_L
+    100002: brazo1_R
+    100004: brazo2_L
+    100006: brazo2_R
+    100008: brazoIK_L
+    100010: brazoIK_L_end
+    100012: brazoIK_R
+    100014: brazoIK_R_end
+    100016: cargador
+    100018: cargador_end
+    100020: columna2
+    100022: controlrotacionanular_L
+    100024: controlrotacionanular_R
+    100026: controlrotacioncorazon_L
+    100028: controlrotacioncorazon_R
+    100030: controlrotacionindice_L
+    100032: controlrotacionindice_R
+    100034: "controlrotacionme\xF1ique_L"
+    100036: "controlrotacionme\xF1ique_R"
+    100038: controlrotacionpulgar_L
+    100040: controlrotacionpulgar_R
+    100042: dedoanular1_L
+    100044: dedoanular1_R
+    100046: dedoanular2_L
+    100048: dedoanular2_R
+    100050: dedoanular3_L
+    100052: dedoanular3_L_end
+    100054: dedoanular3_R
+    100056: dedoanular3_R_end
+    100058: dedocorazon1_L
+    100060: dedocorazon1_R
+    100062: dedocorazon2_L
+    100064: dedocorazon2_R
+    100066: dedocorazon3_L
+    100068: dedocorazon3_L_end
+    100070: dedocorazon3_R
+    100072: dedocorazon3_R_end
+    100074: dedoindice1_L
+    100076: dedoindice1_R
+    100078: dedoindice2_L
+    100080: dedoindice2_R
+    100082: dedoindice3_L
+    100084: dedoindice3_L_end
+    100086: dedoindice3_R
+    100088: dedoindice3_R_end
+    100090: "dedome\xF1ique1_L"
+    100092: "dedome\xF1ique1_R"
+    100094: "dedome\xF1ique2_L"
+    100096: "dedome\xF1ique2_R"
+    100098: "dedome\xF1ique3_L"
+    100100: "dedome\xF1ique3_L_end"
+    100102: "dedome\xF1ique3_R"
+    100104: "dedome\xF1ique3_R_end"
+    100106: dedopulgar1_L
+    100108: dedopulgar1_R
+    100110: dedopulgar2_L
+    100112: dedopulgar2_R
+    100114: dedopulgar3_L
+    100116: dedopulgar3_L_end
+    100118: dedopulgar3_R
+    100120: dedopulgar3_R_end
+    100122: esqueleto_revgo
+    100124: franco
+    100126: mano_L
+    100128: mano_R
+    100130: polecodo_L
+    100132: polecodo_L_end
+    100134: polecodo_R
+    100136: polecodo_R_end
+    100138: revgo
+    100140: //RootNode
+    400000: brazo1_L
+    400002: brazo1_R
+    400004: brazo2_L
+    400006: brazo2_R
+    400008: brazoIK_L
+    400010: brazoIK_L_end
+    400012: brazoIK_R
+    400014: brazoIK_R_end
+    400016: cargador
+    400018: cargador_end
+    400020: columna2
+    400022: controlrotacionanular_L
+    400024: controlrotacionanular_R
+    400026: controlrotacioncorazon_L
+    400028: controlrotacioncorazon_R
+    400030: controlrotacionindice_L
+    400032: controlrotacionindice_R
+    400034: "controlrotacionme\xF1ique_L"
+    400036: "controlrotacionme\xF1ique_R"
+    400038: controlrotacionpulgar_L
+    400040: controlrotacionpulgar_R
+    400042: dedoanular1_L
+    400044: dedoanular1_R
+    400046: dedoanular2_L
+    400048: dedoanular2_R
+    400050: dedoanular3_L
+    400052: dedoanular3_L_end
+    400054: dedoanular3_R
+    400056: dedoanular3_R_end
+    400058: dedocorazon1_L
+    400060: dedocorazon1_R
+    400062: dedocorazon2_L
+    400064: dedocorazon2_R
+    400066: dedocorazon3_L
+    400068: dedocorazon3_L_end
+    400070: dedocorazon3_R
+    400072: dedocorazon3_R_end
+    400074: dedoindice1_L
+    400076: dedoindice1_R
+    400078: dedoindice2_L
+    400080: dedoindice2_R
+    400082: dedoindice3_L
+    400084: dedoindice3_L_end
+    400086: dedoindice3_R
+    400088: dedoindice3_R_end
+    400090: "dedome\xF1ique1_L"
+    400092: "dedome\xF1ique1_R"
+    400094: "dedome\xF1ique2_L"
+    400096: "dedome\xF1ique2_R"
+    400098: "dedome\xF1ique3_L"
+    400100: "dedome\xF1ique3_L_end"
+    400102: "dedome\xF1ique3_R"
+    400104: "dedome\xF1ique3_R_end"
+    400106: dedopulgar1_L
+    400108: dedopulgar1_R
+    400110: dedopulgar2_L
+    400112: dedopulgar2_R
+    400114: dedopulgar3_L
+    400116: dedopulgar3_L_end
+    400118: dedopulgar3_R
+    400120: dedopulgar3_R_end
+    400122: esqueleto_revgo
+    400124: franco
+    400126: mano_L
+    400128: mano_R
+    400130: polecodo_L
+    400132: polecodo_L_end
+    400134: polecodo_R
+    400136: polecodo_R_end
+    400138: revgo
+    400140: //RootNode
+    4300000: revgo
+    7400000: recargar
+    9500000: //RootNode
+    13700000: revgo
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 3b239ef58133e0c4dbd69c105cd6a1e6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: recargar
+      takeName: esqueleto_revgo|especial
+      firstFrame: 0
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

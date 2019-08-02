@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 23fc240fd28c57743bcd5837bb221579
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Antebrazo_L
+    100002: Antebrazo_L_end
+    100004: Antebrazo_R
+    100006: Anular_L_1
+    100008: Anular_L_2
+    100010: Anular_L_2_end
+    100012: Brazo_L
+    100014: Brazo_R
+    100016: Cabeza
+    100018: Cabeza_end
+    100020: Cadera
+    100022: Central
+    100024: Corazon_R_1
+    100026: Corazon_R_2
+    100028: Corazon_R_2_end
+    100030: Espinilla_L
+    100032: Espinilla_R
+    100034: Femur_L
+    100036: Femur_R
+    100038: Indice_R_1
+    100040: Indice_R_2
+    100042: Indice_R_2_end
+    100044: Lanza_Torpedos
+    100046: Mano_R
+    100048: //RootNode
+    100050: Masilla
+    100052: Masilla.001
+    100054: "Me\xF1ique_R_1"
+    100056: "Me\xF1ique_R_2"
+    100058: "Me\xF1ique_R_2_end"
+    100060: Misil_1
+    100062: Misil_1_end
+    100064: Misil_2
+    100066: Misil_2_end
+    100068: Misil_3
+    100070: Misil_3_end
+    100072: Misil_4
+    100074: Misil_4_end
+    100076: Pecho_Cuello
+    100078: Pie_L
+    100080: Pie_L_end
+    100082: Pie_R
+    100084: Pie_R_end
+    100086: Pulgar_1_R
+    100088: Pulgar_2_R
+    100090: Pulgar_2_R_end
+    100092: Torso
+    400000: Antebrazo_L
+    400002: Antebrazo_L_end
+    400004: Antebrazo_R
+    400006: Anular_L_1
+    400008: Anular_L_2
+    400010: Anular_L_2_end
+    400012: Brazo_L
+    400014: Brazo_R
+    400016: Cabeza
+    400018: Cabeza_end
+    400020: Cadera
+    400022: Central
+    400024: Corazon_R_1
+    400026: Corazon_R_2
+    400028: Corazon_R_2_end
+    400030: Espinilla_L
+    400032: Espinilla_R
+    400034: Femur_L
+    400036: Femur_R
+    400038: Indice_R_1
+    400040: Indice_R_2
+    400042: Indice_R_2_end
+    400044: Lanza_Torpedos
+    400046: Mano_R
+    400048: //RootNode
+    400050: Masilla
+    400052: Masilla.001
+    400054: "Me\xF1ique_R_1"
+    400056: "Me\xF1ique_R_2"
+    400058: "Me\xF1ique_R_2_end"
+    400060: Misil_1
+    400062: Misil_1_end
+    400064: Misil_2
+    400066: Misil_2_end
+    400068: Misil_3
+    400070: Misil_3_end
+    400072: Misil_4
+    400074: Misil_4_end
+    400076: Pecho_Cuello
+    400078: Pie_L
+    400080: Pie_L_end
+    400082: Pie_R
+    400084: Pie_R_end
+    400086: Pulgar_1_R
+    400088: Pulgar_2_R
+    400090: Pulgar_2_R_end
+    400092: Torso
+    4300000: Masilla.001
+    7400000: Masilla|Correr
+    7400002: Masilla|Correr_NO VALE
+    7400004: Masilla|Disparo_1
+    7400006: Masilla|Disparo_2
+    7400008: Masilla|Idle
+    7400010: Masilla|Idle_2
+    7400012: Masilla|MasillaAction_NO
+    7400014: Masilla|Misiles_2
+    7400016: Masilla|Misiles_NO
+    7400018: Masilla|Muerte
+    7400020: Masilla|NO_VALE
+    7400022: Masilla|NO_Vale
+    7400024: Masilla|NO_VALE.001
+    7400026: Masilla|NO_Vale.001
+    7400028: "Masilla|Recibir da\xF1o_1"
+    7400030: "Masilla|Recibir da\xF1o_2"
+    7400032: Masilla|Saltar
+    7400034: Masilla|Saltar_Ascenso
+    7400036: Masilla|Saltar_Descenso
+    9500000: //RootNode
+    13700000: Masilla.001
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Masilla
+    second: {fileID: 2100000, guid: c6e840da4847fec41ad9a6227e190567, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: f74e5c53569fd334a90181ce4872c875
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Antebrazo_L
+    100002: Antebrazo_R
+    100004: Anular_01_L
+    100006: Anular_01_R
+    100008: Anular_02_L
+    100010: Anular_02_L_end
+    100012: Anular_02_R
+    100014: Anular_02_R_end
+    100016: Brazo_IK_L
+    100018: Brazo_IK_L_end
+    100020: Brazo_IK_R
+    100022: Brazo_IK_R_end
+    100024: Brazo_L
+    100026: Brazo_R
+    100028: Cabeza
+    100030: Cabeza_end
+    100032: Cadera
+    100034: Control_Rotacion_L
+    100036: Control_Rotacion_L_end
+    100038: Control_Rotacion_R
+    100040: Control_Rotacion_R_end
+    100042: Corazon_01_L
+    100044: Corazon_01_R
+    100046: Corazon_02_L
+    100048: Corazon_02_L_end
+    100050: Corazon_02_R
+    100052: Corazon_02_R_end
+    100054: Ctrl_Anular_L
+    100056: Ctrl_Anular_R
+    100058: Ctrl_corazon_L
+    100060: Ctrl_corazon_R
+    100062: Ctrl_indice_L
+    100064: Ctrl_indice_R
+    100066: "Ctrl_Me\xF1ique_L"
+    100068: "Ctrl_Me\xF1ique_R"
+    100070: Cuello
+    100072: Dedos_Pie_L
+    100074: Dedos_Pie_L_end
+    100076: Dedos_Pie_R
+    100078: Dedos_Pie_R_end
+    100080: Esqueleto
+    100082: Hombrera_drch
+    100084: Hombrera_drch_end
+    100086: Hombrera_izq
+    100088: Hombrera_izq_end
+    100090: Indice_01_L
+    100092: Indice_01_R
+    100094: Indice_02_L
+    100096: Indice_02_L_end
+    100098: Indice_02_R
+    100100: Indice_02_R_end
+    100102: Mano_L
+    100104: Mano_R
+    100106: "Me\xF1ique_01_L"
+    100108: "Me\xF1ique_01_R"
+    100110: "Me\xF1ique_02_L"
+    100112: "Me\xF1ique_02_L_end"
+    100114: "Me\xF1ique_02_R"
+    100116: "Me\xF1ique_02_R_end"
+    100118: Orientacion_Codo_L
+    100120: Orientacion_Codo_L_end
+    100122: Orientacion_Codo_R
+    100124: Orientacion_Codo_R_end
+    100126: Orientacion_Rodilla_L
+    100128: Orientacion_Rodilla_L_end
+    100130: Orientacion_Rodilla_R
+    100132: Orientacion_Rodilla_R_end
+    100134: Pechera_low
+    100136: Pecho
+    100138: Pie_IK_L
+    100140: Pie_IK_L_end
+    100142: Pie_IK_R
+    100144: Pie_IK_R_end
+    100146: Pie_L
+    100148: Pie_R
+    100150: PIerna_01_L
+    100152: PIerna_01_R
+    100154: PIerna_02_L
+    100156: PIerna_02_R
+    100158: Pistola
+    100160: Pistola_end
+    100162: Principal
+    100164: Pulgar_01_L
+    100166: Pulgar_01_R
+    100168: Pulgar_02_L
+    100170: Pulgar_02_L_end
+    100172: Pulgar_02_R
+    100174: Pulgar_02_R_end
+    100176: Rotacion_Delantera_L
+    100178: Rotacion_Delantera_R
+    100180: Rotacion_trasera_L
+    100182: Rotacion_trasera_R
+    100184: //RootNode
+    400000: Antebrazo_L
+    400002: Antebrazo_R
+    400004: Anular_01_L
+    400006: Anular_01_R
+    400008: Anular_02_L
+    400010: Anular_02_L_end
+    400012: Anular_02_R
+    400014: Anular_02_R_end
+    400016: Brazo_IK_L
+    400018: Brazo_IK_L_end
+    400020: Brazo_IK_R
+    400022: Brazo_IK_R_end
+    400024: Brazo_L
+    400026: Brazo_R
+    400028: Cabeza
+    400030: Cabeza_end
+    400032: Cadera
+    400034: Control_Rotacion_L
+    400036: Control_Rotacion_L_end
+    400038: Control_Rotacion_R
+    400040: Control_Rotacion_R_end
+    400042: Corazon_01_L
+    400044: Corazon_01_R
+    400046: Corazon_02_L
+    400048: Corazon_02_L_end
+    400050: Corazon_02_R
+    400052: Corazon_02_R_end
+    400054: Ctrl_Anular_L
+    400056: Ctrl_Anular_R
+    400058: Ctrl_corazon_L
+    400060: Ctrl_corazon_R
+    400062: Ctrl_indice_L
+    400064: Ctrl_indice_R
+    400066: "Ctrl_Me\xF1ique_L"
+    400068: "Ctrl_Me\xF1ique_R"
+    400070: Cuello
+    400072: Dedos_Pie_L
+    400074: Dedos_Pie_L_end
+    400076: Dedos_Pie_R
+    400078: Dedos_Pie_R_end
+    400080: Esqueleto
+    400082: Hombrera_drch
+    400084: Hombrera_drch_end
+    400086: Hombrera_izq
+    400088: Hombrera_izq_end
+    400090: Indice_01_L
+    400092: Indice_01_R
+    400094: Indice_02_L
+    400096: Indice_02_L_end
+    400098: Indice_02_R
+    400100: Indice_02_R_end
+    400102: Mano_L
+    400104: Mano_R
+    400106: "Me\xF1ique_01_L"
+    400108: "Me\xF1ique_01_R"
+    400110: "Me\xF1ique_02_L"
+    400112: "Me\xF1ique_02_L_end"
+    400114: "Me\xF1ique_02_R"
+    400116: "Me\xF1ique_02_R_end"
+    400118: Orientacion_Codo_L
+    400120: Orientacion_Codo_L_end
+    400122: Orientacion_Codo_R
+    400124: Orientacion_Codo_R_end
+    400126: Orientacion_Rodilla_L
+    400128: Orientacion_Rodilla_L_end
+    400130: Orientacion_Rodilla_R
+    400132: Orientacion_Rodilla_R_end
+    400134: Pechera_low
+    400136: Pecho
+    400138: Pie_IK_L
+    400140: Pie_IK_L_end
+    400142: Pie_IK_R
+    400144: Pie_IK_R_end
+    400146: Pie_L
+    400148: Pie_R
+    400150: PIerna_01_L
+    400152: PIerna_01_R
+    400154: PIerna_02_L
+    400156: PIerna_02_R
+    400158: Pistola
+    400160: Pistola_end
+    400162: Principal
+    400164: Pulgar_01_L
+    400166: Pulgar_01_R
+    400168: Pulgar_02_L
+    400170: Pulgar_02_L_end
+    400172: Pulgar_02_R
+    400174: Pulgar_02_R_end
+    400176: Rotacion_Delantera_L
+    400178: Rotacion_Delantera_R
+    400180: Rotacion_trasera_L
+    400182: Rotacion_trasera_R
+    400184: //RootNode
+    4300000: Pechera_low
+    7400000: Esqueleto|EsqueletoAction
+    7400002: Esqueleto|Idle
+    7400004: Esqueleto|Pechera_lowAction
+    9500000: //RootNode
+    13700000: Pechera_low
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Amarillo_armadura
+    second: {fileID: 2100000, guid: cda25f9cfdc1bc240b46ceb6e2942bef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Azul_armadura
+    second: {fileID: 2100000, guid: 3b5eea2f07fe5d04c8c2f2ed13233329, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blanco
+    second: {fileID: 2100000, guid: b1878565460c5f647b8670140567ea47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gris_armadura
+    second: {fileID: 2100000, guid: 028e65ff5cf64924ebaa163e44c7eab3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ojos
+    second: {fileID: 2100000, guid: 85c63647dac43764399e648d40581a5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pelo
+    second: {fileID: 2100000, guid: 305bb17d3f58ece45a00ed72015ac7d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piel
+    second: {fileID: 2100000, guid: 5b650284d5978e84393c4d63301705d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: calvo_trueno_2
+    second: {fileID: 2100000, guid: 7fe698b78ae96a74c9a1858e8155b718, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: luz
+    second: {fileID: 2100000, guid: e5b88cf4586904c42994c74189514975, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

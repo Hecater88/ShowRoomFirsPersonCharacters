@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 8133bdf5cf174d04f84a4f1859e75a33
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ANTEBRAZO_L
+    100002: antebrazo_R
+    100004: ARMA_R
+    100006: ARMA_R_end
+    100008: Armature
+    100010: BRAZO_L
+    100012: BRAZO_L_end
+    100014: CABEZA
+    100016: CABEZA_end
+    100018: CINTURA
+    100020: CINTURA_end
+    100022: CODO_R
+    100024: HOMBRO_L
+    100026: HOMBRO_R
+    100028: Masilla
+    100030: //RootNode
+    100032: MUSLO_L
+    100034: MUSLO_R
+    100036: PIE11_L
+    100038: PIE11_R
+    100040: PIE12_L
+    100042: PIE12_L_end
+    100044: pie12_R
+    100046: PIE13_R
+    100048: PIE21_L
+    100050: PIE21_R
+    100052: PIE21_R_end
+    100054: PIE22_L
+    100056: PIE22_L_end
+    100058: PIE22_R
+    100060: PIE22_R_end
+    100062: PIE23_R
+    100064: PIE23_R_end
+    100066: PIE31_L
+    100068: PIE32_L
+    100070: PIE32_L_end
+    100072: RODILLA_L
+    100074: RODILLA_R
+    100076: TIBIA_L
+    100078: TIBIA_R
+    100080: TRONCO
+    400000: ANTEBRAZO_L
+    400002: antebrazo_R
+    400004: ARMA_R
+    400006: ARMA_R_end
+    400008: Armature
+    400010: BRAZO_L
+    400012: BRAZO_L_end
+    400014: CABEZA
+    400016: CABEZA_end
+    400018: CINTURA
+    400020: CINTURA_end
+    400022: CODO_R
+    400024: HOMBRO_L
+    400026: HOMBRO_R
+    400028: Masilla
+    400030: //RootNode
+    400032: MUSLO_L
+    400034: MUSLO_R
+    400036: PIE11_L
+    400038: PIE11_R
+    400040: PIE12_L
+    400042: PIE12_L_end
+    400044: pie12_R
+    400046: PIE13_R
+    400048: PIE21_L
+    400050: PIE21_R
+    400052: PIE21_R_end
+    400054: PIE22_L
+    400056: PIE22_L_end
+    400058: PIE22_R
+    400060: PIE22_R_end
+    400062: PIE23_R
+    400064: PIE23_R_end
+    400066: PIE31_L
+    400068: PIE32_L
+    400070: PIE32_L_end
+    400072: RODILLA_L
+    400074: RODILLA_R
+    400076: TIBIA_L
+    400078: TIBIA_R
+    400080: TRONCO
+    4300000: Masilla
+    7400000: Armature|Correr
+    7400002: Armature|CORRER
+    7400004: Armature|Death
+    7400006: "Armature|disparo ca\xF1on"
+    7400008: Armature|disparo metrallaeta down
+    7400010: Armature|disparo metrallaeta down.001
+    7400012: Armature|disparo metralleta up
+    7400014: Armature|idle
+    7400016: "Armature|recibir da\xF1o"
+    7400018: Armature|saltar
+    9500000: //RootNode
+    13700000: Masilla
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: robot
+    second: {fileID: 2100000, guid: 7361b6c7c646cd24d88a6f2ec842de8e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: d035663fcabfcf043b4292005057ee9e
+timeCreated: 1528391763
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: "1\xBAPersona"
+    100002: //RootNode
+    100004: Arma
+    100006: Armature
+    100008: BALA
+    100010: BALA_end
+    100012: Brazo_01_L
+    100014: Brazo_01_R
+    100016: Brazo_02_L
+    100018: Brazo_02_R
+    100020: Cabeza
+    100022: Cabeza_end
+    100024: Cadera
+    100026: Columna_01
+    100028: Columna_02
+    100030: CONTROL_INDICE_01_L
+    100032: CONTROL_INDICE_01_R
+    100034: CONTROL_INDICE_02_L
+    100036: CONTROL_INDICE_02_R
+    100038: CONTROL_INDICE_03_L
+    100040: CONTROL_INDICE_03_R
+    100042: CONTROL_INDICE_04_L
+    100044: CONTROL_INDICE_04_R
+    100046: CONTROL_INDICE_05_L
+    100048: CONTROL_INDICE_05_R
+    100050: Cuchillas_L
+    100052: Cuchillas_L_end
+    100054: Cuchillas_R
+    100056: Cuchillas_R_end
+    100058: Cuello
+    100060: Final
+    100062: Gatillo
+    100064: Gatillo_end
+    100066: INDICE2_01_L
+    100068: INDICE2_01_L_end
+    100070: INDICE2_01_R
+    100072: INDICE2_01_R_end
+    100074: INDICE2_02_L
+    100076: INDICE2_02_L_end
+    100078: INDICE2_02_R
+    100080: INDICE2_02_R_end
+    100082: INDICE2_03_L
+    100084: INDICE2_03_L_end
+    100086: INDICE2_03_R
+    100088: INDICE2_03_R_end
+    100090: INDICE2_04_L
+    100092: INDICE2_04_L_end
+    100094: INDICE2_04_R
+    100096: INDICE2_04_R_end
+    100098: INDICE2_05_L
+    100100: INDICE2_05_L_end
+    100102: INDICE2_05_R
+    100104: INDICE2_05_R_end
+    100106: INDICE_01_L
+    100108: INDICE_01_R
+    100110: INDICE_02_L
+    100112: INDICE_02_R
+    100114: INDICE_03_L
+    100116: INDICE_03_R
+    100118: INDICE_04_L
+    100120: INDICE_04_R
+    100122: INDICE_05_L
+    100124: INDICE_05_R
+    100126: Mano_IK_L
+    100128: Mano_IK_L_end
+    100130: Mano_IK_R
+    100132: Mano_IK_R_end
+    100134: Mano_L
+    100136: Mano_R
+    100138: Orientacioncodo_L
+    100140: Orientacioncodo_L_end
+    100142: Orientacioncodo_R
+    100144: Orientacioncodo_R_end
+    400000: "1\xBAPersona"
+    400002: //RootNode
+    400004: Arma
+    400006: Armature
+    400008: BALA
+    400010: BALA_end
+    400012: Brazo_01_L
+    400014: Brazo_01_R
+    400016: Brazo_02_L
+    400018: Brazo_02_R
+    400020: Cabeza
+    400022: Cabeza_end
+    400024: Cadera
+    400026: Columna_01
+    400028: Columna_02
+    400030: CONTROL_INDICE_01_L
+    400032: CONTROL_INDICE_01_R
+    400034: CONTROL_INDICE_02_L
+    400036: CONTROL_INDICE_02_R
+    400038: CONTROL_INDICE_03_L
+    400040: CONTROL_INDICE_03_R
+    400042: CONTROL_INDICE_04_L
+    400044: CONTROL_INDICE_04_R
+    400046: CONTROL_INDICE_05_L
+    400048: CONTROL_INDICE_05_R
+    400050: Cuchillas_L
+    400052: Cuchillas_L_end
+    400054: Cuchillas_R
+    400056: Cuchillas_R_end
+    400058: Cuello
+    400060: Final
+    400062: Gatillo
+    400064: Gatillo_end
+    400066: INDICE2_01_L
+    400068: INDICE2_01_L_end
+    400070: INDICE2_01_R
+    400072: INDICE2_01_R_end
+    400074: INDICE2_02_L
+    400076: INDICE2_02_L_end
+    400078: INDICE2_02_R
+    400080: INDICE2_02_R_end
+    400082: INDICE2_03_L
+    400084: INDICE2_03_L_end
+    400086: INDICE2_03_R
+    400088: INDICE2_03_R_end
+    400090: INDICE2_04_L
+    400092: INDICE2_04_L_end
+    400094: INDICE2_04_R
+    400096: INDICE2_04_R_end
+    400098: INDICE2_05_L
+    400100: INDICE2_05_L_end
+    400102: INDICE2_05_R
+    400104: INDICE2_05_R_end
+    400106: INDICE_01_L
+    400108: INDICE_01_R
+    400110: INDICE_02_L
+    400112: INDICE_02_R
+    400114: INDICE_03_L
+    400116: INDICE_03_R
+    400118: INDICE_04_L
+    400120: INDICE_04_R
+    400122: INDICE_05_L
+    400124: INDICE_05_R
+    400126: Mano_IK_L
+    400128: Mano_IK_L_end
+    400130: Mano_IK_R
+    400132: Mano_IK_R_end
+    400134: Mano_L
+    400136: Mano_R
+    400138: Orientacioncodo_L
+    400140: Orientacioncodo_L_end
+    400142: Orientacioncodo_R
+    400144: Orientacioncodo_R_end
+    4300000: "1\xBAPersona"
+    7400000: Armature|Disparar
+    7400002: Armature|Idle
+    7400004: Armature|Idle_Movimiento_Especial
+    7400006: Armature|Recargar
+    9500000: //RootNode
+    13700000: "1\xBAPersona"
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BALAS
+    second: {fileID: 2100000, guid: a68c5c64e090d734a949cc0ce90651c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_Emisivo
+    second: {fileID: 2100000, guid: 0fb735a716e4bfb48aade23f2b931176, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textures_1persona
+    second: {fileID: 2100000, guid: 9375a33c6c3c68240bb3c00abaf7bbd2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

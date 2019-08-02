@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: eb12663777a83524fb0cca74d3b073f2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ANULAR_D_F1
+    100002: ANULAR_D_F2
+    100004: ANULAR_D_F3
+    100006: ANULAR_D_F3_end
+    100008: ANULAR_I_F1
+    100010: ANULAR_I_F2
+    100012: ANULAR_I_F3
+    100014: ANULAR_I_F3_end
+    100016: Armature_LOW
+    100018: BRAZO_D
+    100020: BRAZO_I
+    100022: BRAZOCOMPLETO
+    100024: BRAZOCOMPLETO_end
+    100026: CABEZA
+    100028: CABEZA_end
+    100030: CADERA
+    100032: COR_D_F1
+    100034: COR_D_F2
+    100036: COR_D_F3
+    100038: COR_D_F3_end
+    100040: COR_I_F1
+    100042: COR_I_F2
+    100044: COR_I_F3
+    100046: COR_I_F3_end
+    100048: CUELLO
+    100050: DETALLE_CINTURA
+    100052: DETALLE_CINTURA_end
+    100054: Empty.002
+    100056: FEMUR_L
+    100058: FEMUR_R
+    100060: HOMBRO_D
+    100062: HOMBRO_I
+    100064: "IK_MU\xD1ECA_D"
+    100066: "IK_MU\xD1ECA_D_end"
+    100068: "IK_MU\xD1ECA_I"
+    100070: "IK_MU\xD1ECA_I_end"
+    100072: IK_PIE_L
+    100074: IK_PIE_L_end
+    100076: IK_PIE_R
+    100078: IK_PIE_R_end
+    100080: INDICE_D_F1
+    100082: INDICE_D_F2
+    100084: INDICE_D_F3
+    100086: INDICE_D_F3_end
+    100088: INDICE_I_F1
+    100090: INDICE_I_F2
+    100092: INDICE_I_F3
+    100094: INDICE_I_F3_end
+    100096: MEN_D_F1
+    100098: MEN_D_F2
+    100100: MEN_D_F3
+    100102: MEN_D_F3_end
+    100104: MEN_I_F1
+    100106: MEN_I_F2
+    100108: MEN_I_F3
+    100110: MEN_I_F3_end
+    100112: "MU\xD1ECA_D"
+    100114: "MU\xD1ECA_I"
+    100116: PELO
+    100118: PELO1
+    100120: PELO2
+    100122: PELO2_end
+    100124: PIE_L
+    100126: PIE_L_end
+    100128: PIE_R
+    100130: PIE_R_end
+    100132: Pt_codo_L
+    100134: Pt_codo_L_end
+    100136: Pt_codo_R
+    100138: Pt_codo_R_end
+    100140: Pt_rodilla_L
+    100142: Pt_rodilla_L_end
+    100144: Pt_rodilla_R
+    100146: Pt_rodilla_R_end
+    100148: PULGAR_D_F1
+    100150: PULGAR_D_F2
+    100152: PULGAR_D_F3
+    100154: PULGAR_D_F3_end
+    100156: PULGAR_I_F1
+    100158: PULGAR_I_F2
+    100160: PULGAR_I_F3
+    100162: PULGAR_I_F3_end
+    100164: //RootNode
+    100166: TextureAtlas_mergedObject.001
+    100168: TIBIA_L
+    100170: TIBIA_R
+    100172: TOBILLO_L
+    100174: TOBILLO_R
+    100176: TRONCO
+    400000: ANULAR_D_F1
+    400002: ANULAR_D_F2
+    400004: ANULAR_D_F3
+    400006: ANULAR_D_F3_end
+    400008: ANULAR_I_F1
+    400010: ANULAR_I_F2
+    400012: ANULAR_I_F3
+    400014: ANULAR_I_F3_end
+    400016: Armature_LOW
+    400018: BRAZO_D
+    400020: BRAZO_I
+    400022: BRAZOCOMPLETO
+    400024: BRAZOCOMPLETO_end
+    400026: CABEZA
+    400028: CABEZA_end
+    400030: CADERA
+    400032: COR_D_F1
+    400034: COR_D_F2
+    400036: COR_D_F3
+    400038: COR_D_F3_end
+    400040: COR_I_F1
+    400042: COR_I_F2
+    400044: COR_I_F3
+    400046: COR_I_F3_end
+    400048: CUELLO
+    400050: DETALLE_CINTURA
+    400052: DETALLE_CINTURA_end
+    400054: Empty.002
+    400056: FEMUR_L
+    400058: FEMUR_R
+    400060: HOMBRO_D
+    400062: HOMBRO_I
+    400064: "IK_MU\xD1ECA_D"
+    400066: "IK_MU\xD1ECA_D_end"
+    400068: "IK_MU\xD1ECA_I"
+    400070: "IK_MU\xD1ECA_I_end"
+    400072: IK_PIE_L
+    400074: IK_PIE_L_end
+    400076: IK_PIE_R
+    400078: IK_PIE_R_end
+    400080: INDICE_D_F1
+    400082: INDICE_D_F2
+    400084: INDICE_D_F3
+    400086: INDICE_D_F3_end
+    400088: INDICE_I_F1
+    400090: INDICE_I_F2
+    400092: INDICE_I_F3
+    400094: INDICE_I_F3_end
+    400096: MEN_D_F1
+    400098: MEN_D_F2
+    400100: MEN_D_F3
+    400102: MEN_D_F3_end
+    400104: MEN_I_F1
+    400106: MEN_I_F2
+    400108: MEN_I_F3
+    400110: MEN_I_F3_end
+    400112: "MU\xD1ECA_D"
+    400114: "MU\xD1ECA_I"
+    400116: PELO
+    400118: PELO1
+    400120: PELO2
+    400122: PELO2_end
+    400124: PIE_L
+    400126: PIE_L_end
+    400128: PIE_R
+    400130: PIE_R_end
+    400132: Pt_codo_L
+    400134: Pt_codo_L_end
+    400136: Pt_codo_R
+    400138: Pt_codo_R_end
+    400140: Pt_rodilla_L
+    400142: Pt_rodilla_L_end
+    400144: Pt_rodilla_R
+    400146: Pt_rodilla_R_end
+    400148: PULGAR_D_F1
+    400150: PULGAR_D_F2
+    400152: PULGAR_D_F3
+    400154: PULGAR_D_F3_end
+    400156: PULGAR_I_F1
+    400158: PULGAR_I_F2
+    400160: PULGAR_I_F3
+    400162: PULGAR_I_F3_end
+    400164: //RootNode
+    400166: TextureAtlas_mergedObject.001
+    400168: TIBIA_L
+    400170: TIBIA_R
+    400172: TOBILLO_L
+    400174: TOBILLO_R
+    400176: TRONCO
+    4300000: TextureAtlas_mergedObject.001
+    7400000: Armature_LOW|agacharse
+    7400002: Armature_LOW|ataque basico
+    7400004: Armature_LOW|ataque especial
+    7400006: Armature_LOW|ataque especial.001
+    7400008: Armature_LOW|correr
+    7400010: Armature_LOW|correr.001
+    7400012: Armature_LOW|embestida
+    7400014: Armature_LOW|idle
+    7400016: Armature_LOW|moverse agachado
+    7400018: Armature_LOW|muerte
+    7400020: "Armature_LOW|recibir da\xF1o"
+    7400022: "Armature_LOW|recibir da\xF1o.001"
+    7400024: Armature_LOW|saltar
+    7400026: Empty.002|agacharse
+    9500000: //RootNode
+    13700000: TextureAtlas_mergedObject.001
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: amarillo_armadra
+    second: {fileID: 2100000, guid: 3c508f3e8ff9dd942a3aeb7add4233ef, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
